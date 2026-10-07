@@ -62,3 +62,75 @@ I focus on **clean, modular, maintainable, and scalable architectures** across b
 **Tools & Deployment**
 
 `Git` `GitHub` `Docker` `Gradle` `Render` `Vercel`
+---
+
+## Featured Projects
+
+### 🚀 Duralap
+
+**Real-time communication platform**
+
+A production-oriented communication platform designed around real-time messaging, authentication, presence, notifications, and media handling.
+
+**Stack:** `Kotlin` `Spring Boot` `MongoDB` `Redis` `Kafka` `WebSocket` `JWT`
+
+**Focus:** Real-time communication · Event-driven architecture · Authentication · Scalable backend
+
+🔗 [Backend Repository](https://github.com/sazib1008/DuralapBackend)
+
+---
+
+### ✈️ Tripzy
+
+**Group tour expense management application**
+
+A mobile application for managing shared tour expenses and calculating individual balances across group members.
+
+**Stack:** `Kotlin` `Jetpack Compose` `Spring Boot` `MongoDB` `OAuth 2.0` `JWT`
+
+**Focus:** Expense management · Google OAuth 2.0 · REST APIs · Android architecture
+
+🔗 [Android](https://github.com/sazib1008/Tripzy) · [Backend](https://github.com/sazib1008/tour-cost-tracker-backend)
+
+---
+
+### 🍽️ MessMate
+
+**Digital meal management platform for university messes**
+
+A system designed to manage students, meal schedules, daily meal counts, guest meals, managers, and automated meal-cost calculations.
+
+**Stack:** `Kotlin` `Jetpack Compose` `Spring Boot` `PostgreSQL` `JWT`
+
+**Focus:** Meal management · Role-based workflows · Expense calculation · Backend architecture
+
+🔗 [Android](https://github.com/sazib1008/MealManagementAppFrontend)
+
+---
+
+### 📍 PinMind
+
+**Offline location-based task reminder**
+
+An Android application that reminds users about tasks when they enter or leave configured geographic locations.
+
+**Stack:** `Kotlin` `Jetpack Compose` `Room` `Hilt` `WorkManager` `Geofencing`
+
+**Focus:** Offline-first Android · Location services · Background processing · Geofencing
+
+🔗 [Repository](https://github.com/sazib1008/PinMind) · [Download APK](https://github.com/sazib1008/PinMind/releases/download/v1.0.0/app-release.apk)
+
+---
+
+### 🛒 Bazar Monitor
+
+**Price monitoring and management platform**
+
+A multi-application system for monitoring and managing product price information.
+
+**Stack:** `Kotlin` `Jetpack Compose` `Spring Boot` `Database`
+
+**Focus:** Android applications · Backend APIs · Data management
+
+🔗 [Consumer App](https://github.com/sazib1008/Bazar-Monitor---Consumer-App) · [Admin App](https://github.com/sazib1008/Bazar-Monitor-Admin-App) · [Backend](https://github.com/sazib1008/bazar_monitoring_system_backend)
+
