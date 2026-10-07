@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Sazib Hossain 👋
 
-<!--
-**sazib1008/sazib1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Android & Backend Engineer
 
-Here are some ideas to get you started:
+I build modern Android applications and production-oriented backend systems using **Kotlin, Jetpack Compose, and Spring Boot**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work focuses on **clean architecture, secure authentication, scalable APIs, real-time communication, and modern Android development**.
+
+Currently, I'm building full-stack products that combine **Android, Spring Boot, databases, caching, messaging, and real-time technologies**.
+
+<p align="left">
+  <a href="https://sazib1008.vercel.app">Portfolio</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/sazib-hossain/">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:sazib1008@gmail.com">Email</a>
+</p>
